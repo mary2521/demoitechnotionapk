@@ -5,22 +5,26 @@
     "name" : "Pluto",
     "imgUrl" : "https://images.dog.ceo/breeds/clumber/n02101556_5182.jpg",
     "city" : "California",
-    "gender" :"Male"
+    "gender" :"Male",
+	"color" : "red"
     },{
       "name" : "Misa",
     "imgUrl" : "https://images.dog.ceo/breeds/clumber/n02101556_5182.jpg",
     "city" : "Illinois",
-    "gender" :"Female"
+    "gender" :"Female",
+	"color" : "blue"
     },{
       "name" : "Charlie",
     "imgUrl" : "https://images.dog.ceo/breeds/clumber/n02101556_5182.jpg",
     "city" : "Texas",
-    "gender" :"Male"
+    "gender" :"Male",
+	"color" : "yellow"
     },{
       "name" : "Molly",
     "imgUrl" : "https://images.dog.ceo/breeds/clumber/n02101556_5182.jpg",
     "city" : "New York",
-    "gender" :"Female"
+    "gender" :"Female",
+	"color" : "orange"
     }
   ],
   "urgent":[
@@ -28,16 +32,19 @@
      "name" : "Max",
      "imgUrl" : "https://images.dog.ceo/breeds/clumber/n02101556_5182.jpg",
       "city" : "Tennessee",
+	  "color" : "orange",
       "gender" :"Male"  
   },{
      "name" : "Bella",
      "imgUrl" : "https://images.dog.ceo/breeds/clumber/n02101556_5182.jpg",
       "city" : "New York",
+	  "color" : "red",
       "gender" :"Female"  
   },{
      "name" : "Coco",
      "imgUrl" : "https://images.dog.ceo/breeds/clumber/n02101556_5182.jpg",
       "city" : "Tennessee",
+	  "color" : "yellow",
       "gender" :"Male"  
   }
   ]
